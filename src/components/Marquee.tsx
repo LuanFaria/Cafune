@@ -4,7 +4,7 @@ const ITEMS = [
   'Banho e secagem',
   'Passeio individual',
   'Água fresca o dia todo',
-  'Sesta com cafuné',
+  'Sexta com cafuné',
 ]
 
 function Row({ hidden = false }: { hidden?: boolean }) {
