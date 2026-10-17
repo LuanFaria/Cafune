@@ -17,7 +17,7 @@ const PLANS: Plan[] = [
     tagline: 'Pra quando der vontade (ou aperto).',
     price: 'R$ 85',
     unit: 'por diária',
-    items: ['Recreação e sesta incluídas', 'Sem fidelidade', 'Agende com 1 dia de antecedência'],
+    items: ['Recreação', 'Sem fidelidade', 'Agende com 1 dia de antecedência'],
   },
   {
     name: 'Turminha',
