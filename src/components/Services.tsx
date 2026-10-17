@@ -21,7 +21,7 @@ const SERVICES: Service[] = [
     title: 'Creche diária',
     blurb:
       'O dia todo em turma, com hora de brincar, hora de beber água e hora de dormir. Seu pet volta cansado e você volta pra casa tranquilo.',
-    details: ['Turmas por porte e temperamento', 'Sesta em camas elevadas', 'Relatório do dia no WhatsApp'],
+    details: ['Turmas por porte e temperamento', 'Camas elevadas', 'Relatório do dia no WhatsApp'],
     price: 'a partir de R$ 85',
     unit: '/ dia',
     img: IMG.banhoDeSol,
